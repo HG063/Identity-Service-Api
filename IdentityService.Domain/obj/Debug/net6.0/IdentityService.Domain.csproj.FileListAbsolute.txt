@@ -1,0 +1,12 @@
+C:\Users\harshit.gupta2\Documents\Assetmark\AssetmarkSolution\IdentityService.Domain\bin\Debug\net6.0\IdentityService.Domain.deps.json
+C:\Users\harshit.gupta2\Documents\Assetmark\AssetmarkSolution\IdentityService.Domain\bin\Debug\net6.0\IdentityService.Domain.dll
+C:\Users\harshit.gupta2\Documents\Assetmark\AssetmarkSolution\IdentityService.Domain\bin\Debug\net6.0\IdentityService.Domain.pdb
+C:\Users\harshit.gupta2\Documents\Assetmark\AssetmarkSolution\IdentityService.Domain\obj\Debug\net6.0\IdentityService.Domain.csproj.AssemblyReference.cache
+C:\Users\harshit.gupta2\Documents\Assetmark\AssetmarkSolution\IdentityService.Domain\obj\Debug\net6.0\IdentityService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harshit.gupta2\Documents\Assetmark\AssetmarkSolution\IdentityService.Domain\obj\Debug\net6.0\IdentityService.Domain.AssemblyInfoInputs.cache
+C:\Users\harshit.gupta2\Documents\Assetmark\AssetmarkSolution\IdentityService.Domain\obj\Debug\net6.0\IdentityService.Domain.AssemblyInfo.cs
+C:\Users\harshit.gupta2\Documents\Assetmark\AssetmarkSolution\IdentityService.Domain\obj\Debug\net6.0\IdentityService.Domain.csproj.CoreCompileInputs.cache
+C:\Users\harshit.gupta2\Documents\Assetmark\AssetmarkSolution\IdentityService.Domain\obj\Debug\net6.0\IdentityService.Domain.dll
+C:\Users\harshit.gupta2\Documents\Assetmark\AssetmarkSolution\IdentityService.Domain\obj\Debug\net6.0\refint\IdentityService.Domain.dll
+C:\Users\harshit.gupta2\Documents\Assetmark\AssetmarkSolution\IdentityService.Domain\obj\Debug\net6.0\IdentityService.Domain.pdb
+C:\Users\harshit.gupta2\Documents\Assetmark\AssetmarkSolution\IdentityService.Domain\obj\Debug\net6.0\ref\IdentityService.Domain.dll

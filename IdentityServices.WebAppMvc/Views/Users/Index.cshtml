@@ -1,0 +1,71 @@
+﻿@model IEnumerable<IdentityService.WebAppMvc.Models.UserDetailsViewModel>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>User Details</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UserName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UserGuid)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.RoleName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.RoleId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.AplId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.HasActiveRole)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UserName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UserGuid)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.RoleName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.RoleId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AplId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.HasActiveRole)
+            </td>
+            <td>
+                
+                @Html.ActionLink("Edit", "Edit", new { AplId=item.AplId }) |
+                @Html.ActionLink("Delete", "Delete", new { AplId=item.AplId})
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
